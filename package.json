@@ -91,7 +91,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/huan/node-facenet.git"
+    "url": "git+https://github.com/WeHaus/node-facenet.git"
   },
   "keywords": [
     "facenet",
@@ -125,9 +125,7 @@
     "README.md",
     "requirements.txt"
   ],
-  "bin": {
-    "facenet-manager": "dist/bin/facenet-manager.js"
-  },
+  
   "facenet": {
     "env": {
       "PYTHON_FACENET_MODEL_PATH": "models/",
